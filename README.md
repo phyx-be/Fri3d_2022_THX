@@ -28,9 +28,9 @@ Solder the header on the front of the badge.
 
 Mount the PCB as shown in the picture above.
 
-## Using the standalon version
+## Using the standalone version
 The boards come pre-flashed with the most recent version of the [Mattairtech](https://github.com/mattairtech/ArduinoCore-samd) bootloader.
-They come equiped with 4 Neopixels and a row of test pads that fit a regular size 0.1" pin header. By default it will run some light animations. But with some thinkering you could use the board as an USB macropad for example.
+They come equiped with 4 Neopixels and a row of test pads that fit a regular size 0.1" pin header. By default it will run some light animations, but with some thinkering you could use the board as an USB macropad for example.
 As an added bonus we've foreseen a pin mounting so you can wear the board on your clothes like a nametag.
 
 ![Board pinned on ESD jacket](media/Pin.jpg)
