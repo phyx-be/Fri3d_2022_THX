@@ -17,8 +17,8 @@ The boards are hand soldered by [Wim](https://twitter.com/brubacker/) from [Phyx
 
 ![Assembled Boards](media/Assembled_Boards.jpg)
 
-## Using the non-standalon versions
-The boards are [SAO V1.69BIS](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) compatible and will fit other camp badges. For your convenience we've added a femala header which you can solder on the Fri3d badge.
+## Using the non-standalone versions
+The boards are [SAO V1.69BIS](https://hackaday.com/2019/03/20/introducing-the-shitty-add-on-v1-69bis-standard/) compatible and will fit other camp badges. For your convenience we've added a female header which you can solder on the [Fri3d badge](https://github.com/Fri3dCamp/badge-2020).
 
 ![Solder header on the front](media/Connector.jpg)
 
@@ -30,7 +30,6 @@ Mount the PCB as shown in the picture above.
 
 ## Using the standalone version
 The boards come pre-flashed with the most recent version of the [Mattairtech](https://github.com/mattairtech/ArduinoCore-samd) bootloader.
-They come equiped with 4 Neopixels and a row of test pads that fit a regular size 0.1" pin header. By default it will run some light animations, but with some thinkering you could use the board as an USB macropad for example.
+They come equiped with 4 Neopixels and a row of test pads that fit a regular size 0.1" pin header. By default it will run some RGB light animations, but with some thinkering you could use the board as an USB macropad for example.
 As an added bonus we've foreseen a pin mounting so you can wear the board on your clothes like a nametag.
-
 ![Board pinned on ESD jacket](media/Pin.jpg)
